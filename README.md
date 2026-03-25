@@ -75,7 +75,7 @@ Archivo: `appsettings.json`
 
 ```json
 "Jwt": {
-  "Key": "EstaEsUnaClaveMuySeguraDeMinimo32Caracteres123",
+  "Key": "lbGT65bVv04XLCLLchLBQvq6DJKqNNFdYN1sNvh50yUIa0mUje0gNoJmx1QMzk3c0aCn307UmDVqixUfg==",
   "Issuer": "API_Tecnywe",
   "Audience": "API_TecnyweUsers",
   "ExpiresInMinutes": 60
