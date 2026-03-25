@@ -38,6 +38,9 @@ namespace API_Tecnywe.Middleware
                 case BadRequestException:
                     statusCode = HttpStatusCode.BadRequest;
                     break;
+                case UnauthorizedAccessException:
+                    statusCode = HttpStatusCode.Unauthorized;
+                    break;
                 default:
                     statusCode = HttpStatusCode.InternalServerError;
                     break;
