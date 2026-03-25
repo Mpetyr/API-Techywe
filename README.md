@@ -1,6 +1,6 @@
-# API_Tecnywe
+# API_Techywe
 
-API REST desarrollada en .NET para la gestión de productos, clientes y pedidos.
+API REST desarrollada en .NET para la gestión de productos, clientes y ordenes.
 
 ---
 
